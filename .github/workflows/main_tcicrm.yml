@@ -61,4 +61,4 @@ jobs:
           app-name: 'tcicrm'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F13F1B5A80A45BD97C4D024EA834E28 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CBA7D9B852A541548733B12343F8324A }}
